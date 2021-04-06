@@ -12,3 +12,5 @@ Google analitycs lo podemos incluir en nuestro código de html para que no infor
 
 ### Concepto Dom.
 Cuando hablamos del dom, por decirlo facil de entender, hablamos de la pestaña elements en una página, es decir, el html que hemos creado pero en la web, no en el editor de código y podemos hacer referencia a el con el elemnto document. en la consola. Siempre que hablemos de document será este dom "vivo" que hay en la web. Podemos hacerle peticiones de búsqueda para saber un valor, una características, cambiar algo,.... Dentro de la consola podemos obtener, poniendo el ratón encima, ltoda la libreria de la que disponemos.
+
+parseFloat: Sirve para convertir a número-
